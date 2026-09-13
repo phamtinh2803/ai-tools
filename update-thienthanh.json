@@ -1,6 +1,7 @@
 {
+  "product": "Thiên Thanh",
   "version": "1.0.1",
-  "download_url": "https://drive.google.com/uc?export=download&id=1V4WH4O6SHsOnMGga1KpXjMJLvgCT_PW0",
+  "download_url": "https://drive.usercontent.google.com/download?id=1V4WH4O6SHsOnMGga1KpXjMJLvgCT_PW0&export=download&confirm=t",
   "changelog": "Phiên bản Thiên Thanh hỗ trợ worker và VPS",
   "sha256": ""
 }

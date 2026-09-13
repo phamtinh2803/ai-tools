@@ -1,6 +1,7 @@
 {
+  "product": "Khanh",
   "version": "1.0.1",
-  "download_url": "https://drive.google.com/uc?export=download&id=1CAdVSlewUpnF5_6n9nqDYlRjlOv6CW-Y",
+  "download_url": "https://drive.usercontent.google.com/download?id=1CAdVSlewUpnF5_6n9nqDYlRjlOv6CW-Y&export=download&confirm=t",
   "changelog": "Phiên bản Khanh hỗ trợ worker và VPS",
   "sha256": ""
 }
